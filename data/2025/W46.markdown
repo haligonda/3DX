@@ -1,0 +1,78 @@
+[![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face](https://huggingface.co/)
+  * [](https://huggingface.co/models)
+  * [](https://huggingface.co/datasets)
+  * [](https://huggingface.co/spaces)
+  * [](https://huggingface.co/docs)
+  * [](https://huggingface.co/enterprise)
+  * [Pricing](https://huggingface.co/pricing)
+  * * * *
+  * [Log In](https://huggingface.co/login)
+  * [Sign Up](https://huggingface.co/join)
+
+
+new
+Get trending papers in your email inbox once a day!
+Get trending papers in your email inbox!
+[Subscribe](https://huggingface.co/login?next=%2Fpapers)
+# Daily Papers
+## by[![](https://huggingface.co/front/assets/papers-by.png)AK](https://huggingface.co/akhaliq) and the research community 
+  * Daily 
+  * Weekly 
+  * Monthly 
+
+[](https://huggingface.co/papers/trending)
+[](https://huggingface.co/papers/week/2025-W45)
+Nov 9-15
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.05491.png)](https://huggingface.co/papers/2511.05491)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 7 ](https://huggingface.co/login?next=%2Fpapers%2F2511.05491)
+### [Visual Spatial Tuning](https://huggingface.co/papers/2511.05491)
+[![ByteDance-Seed](https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png) ByteDance Seed](https://huggingface.co/ByteDance-Seed)
+[5](https://huggingface.co/papers/2511.05491) [](https://huggingface.co/papers/2511.05491#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.05271.png)](https://huggingface.co/papers/2511.05271)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 7 ](https://huggingface.co/login?next=%2Fpapers%2F2511.05271)
+### [DeepEyesV2: Toward Agentic Multimodal Model](https://huggingface.co/papers/2511.05271)
+[
+  * · 6 authors 
+
+](https://huggingface.co/papers/2511.05271)
+[926](https://huggingface.co/papers/2511.05271) [](https://huggingface.co/papers/2511.05271#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.05017.png)](https://huggingface.co/papers/2511.05017)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 3 ](https://huggingface.co/login?next=%2Fpapers%2F2511.05017)
+### [Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings](https://huggingface.co/papers/2511.05017)
+[
+  * · 8 authors 
+
+](https://huggingface.co/papers/2511.05017)
+[](https://huggingface.co/papers/2511.05017#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.04962.png)](https://huggingface.co/papers/2511.04962)
+Submitted by ![](https://huggingface.co/avatars/752aa3c072c71ece41ea786371574777.svg) Zihao1
+[ 3 ](https://huggingface.co/login?next=%2Fpapers%2F2511.04962)
+### [Too Good to be Bad: On the Failure of LLMs to Role-Play Villains](https://huggingface.co/papers/2511.04962)
+[![tencent](https://cdn-uploads.huggingface.co/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png) Tencent](https://huggingface.co/tencent)
+[](https://huggingface.co/papers/2511.04962#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.05369.png)](https://huggingface.co/papers/2511.05369)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ - ](https://huggingface.co/login?next=%2Fpapers%2F2511.05369)
+### [Dense Motion Captioning](https://huggingface.co/papers/2511.05369)
+[
+  * · 4 authors 
+
+](https://huggingface.co/papers/2511.05369)
+[2](https://huggingface.co/papers/2511.05369) [](https://huggingface.co/papers/2511.05369#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.04707.png)](https://huggingface.co/papers/2511.04707)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ - ](https://huggingface.co/login?next=%2Fpapers%2F2511.04707)
+### [Jailbreaking in the Haystack](https://huggingface.co/papers/2511.04707)
+[
+  * · 6 authors 
+
+](https://huggingface.co/papers/2511.04707)
+[1](https://huggingface.co/papers/2511.04707) [](https://huggingface.co/papers/2511.04707#community)
+[](https://huggingface.co/papers/week/2025-W45)
+Company
+[TOS](https://huggingface.co/terms-of-service) [Privacy](https://huggingface.co/privacy) [About](https://huggingface.co/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](https://huggingface.co/)
+Website
+[Models](https://huggingface.co/models) [Datasets](https://huggingface.co/datasets) [Spaces](https://huggingface.co/spaces) [Pricing](https://huggingface.co/pricing) [Docs](https://huggingface.co/docs)

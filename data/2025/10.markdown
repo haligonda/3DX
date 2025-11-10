@@ -1,0 +1,826 @@
+[![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face](https://huggingface.co/)
+  * [](https://huggingface.co/models)
+  * [](https://huggingface.co/datasets)
+  * [](https://huggingface.co/spaces)
+  * [](https://huggingface.co/docs)
+  * [](https://huggingface.co/enterprise)
+  * [Pricing](https://huggingface.co/pricing)
+  * * * *
+  * [Log In](https://huggingface.co/login)
+  * [Sign Up](https://huggingface.co/join)
+
+
+new
+Get trending papers in your email inbox once a day!
+Get trending papers in your email inbox!
+[Subscribe](https://huggingface.co/login?next=%2Fpapers)
+# Daily Papers
+## by[![](https://huggingface.co/front/assets/papers-by.png)AK](https://huggingface.co/akhaliq) and the research community
+  * Daily 
+  * Weekly 
+  * Monthly 
+
+[](https://huggingface.co/papers/trending)
+[](https://huggingface.co/papers/month/2025-09)
+October
+[](https://huggingface.co/papers/month/2025-11)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.26507.png)](https://huggingface.co/papers/2509.26507)
+Submitted by ![](https://huggingface.co/avatars/161cb412c7cb284fa7483e790807e4d3.svg) janchorowski
+[ 526 ](https://huggingface.co/login?next=%2Fpapers%2F2509.26507)
+### [The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain](https://huggingface.co/papers/2509.26507)
+[![pathwaycom](https://cdn-uploads.huggingface.co/production/uploads/6697aead07b36ccd016f0888/JspTDn2ZN2F0SScUGlecQ.png) Pathway](https://huggingface.co/pathwaycom)
+[3.29k](https://huggingface.co/papers/2509.26507) [](https://huggingface.co/papers/2509.26507#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.04871.png)](https://huggingface.co/papers/2510.04871)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1660479589894-noauth.jpeg) AlexiaJM
+[ 468 ](https://huggingface.co/login?next=%2Fpapers%2F2510.04871)
+### [Less is More: Recursive Reasoning with Tiny Networks](https://huggingface.co/papers/2510.04871)
+[![SamsungSAILMontreal](https://cdn-uploads.huggingface.co/production/uploads/1678163236468-6406bcaca577649430c6bff4.png) Samsung SAIT AI Lab, Montreal](https://huggingface.co/SamsungSAILMontreal)
+[5.49k](https://huggingface.co/papers/2510.04871) [](https://huggingface.co/papers/2510.04871#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08558.png)](https://huggingface.co/papers/2510.08558)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 260 ](https://huggingface.co/login?next=%2Fpapers%2F2510.08558)
+### [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558)
+[![metaresearch](https://cdn-uploads.huggingface.co/production/uploads/66b25f3f58babfaeb76112dc/2GmiaF075AZ7BcE538oPk.png) Meta Research](https://huggingface.co/metaresearch)
+[](https://huggingface.co/papers/2510.08558#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.25741.png)](https://huggingface.co/papers/2510.25741)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 202 ](https://huggingface.co/login?next=%2Fpapers%2F2510.25741)
+### [Scaling Latent Reasoning via Looped Language Models](https://huggingface.co/papers/2510.25741)
+[![ByteDance-Seed](https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png) ByteDance Seed](https://huggingface.co/ByteDance-Seed)
+[](https://huggingface.co/papers/2510.25741#community)
+[](https://huggingface.co/papers/2510.11696)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/656db3f53dc1d277e5a64410/9kiY2K3MCRcBDk7MrkTBK.png) AaronHuangWei
+[ 173 ](https://huggingface.co/login?next=%2Fpapers%2F2510.11696)
+### [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs](https://huggingface.co/papers/2510.11696)
+[![nvidia](https://cdn-uploads.huggingface.co/production/uploads/1613114437487-60262a8e0703121c822a80b6.png) NVIDIA](https://huggingface.co/nvidia)
+[424](https://huggingface.co/papers/2510.11696) [](https://huggingface.co/papers/2510.11696#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23607.png)](https://huggingface.co/papers/2510.23607)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/643e5d6a1d0e956d94bb3608/mTnu7Dts2RmDklHlp9Gqu.jpeg) Gofinge
+[ 172 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23607)
+### [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations](https://huggingface.co/papers/2510.23607)
+[![Pointcept](https://cdn-uploads.huggingface.co/production/uploads/643e5d6a1d0e956d94bb3608/dtbQ44h-xIjwQlHT9Nbbv.png) Pointcept](https://huggingface.co/Pointcept)
+[388](https://huggingface.co/papers/2510.23607) [](https://huggingface.co/papers/2510.23607#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.24002.png)](https://huggingface.co/papers/2509.24002)
+Submitted by ![](https://huggingface.co/avatars/18bda74612a3ee63a17f991bcc695106.svg) Jakumetsu
+[ 170 ](https://huggingface.co/login?next=%2Fpapers%2F2509.24002)
+### [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://huggingface.co/papers/2509.24002)
+[![NationalUniversityofSingapore](https://cdn-uploads.huggingface.co/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png) National University of Singapore](https://huggingface.co/NationalUniversityofSingapore)
+[309](https://huggingface.co/papers/2509.24002) [](https://huggingface.co/papers/2509.24002#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.11690.png)](https://huggingface.co/papers/2510.11690)
+Submitted by ![](https://huggingface.co/avatars/7cf1bbb83447441e5fa2e1e4fcf7617b.svg) tsbpp
+[ 160 ](https://huggingface.co/login?next=%2Fpapers%2F2510.11690)
+### [Diffusion Transformers with Representation Autoencoders](https://huggingface.co/papers/2510.11690)
+[![nyu-visionx](https://cdn-uploads.huggingface.co/production/uploads/626dc5105f7327906f0b2a4e/Kn-QtZjE6TJE-syTndXIW.jpeg) NYU VisionX](https://huggingface.co/nyu-visionx)
+[1.5k](https://huggingface.co/papers/2510.11690) [](https://huggingface.co/papers/2510.11690#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.15444.png)](https://huggingface.co/papers/2510.15444)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64675fd0b990713c50317559/qGUiaMyAd4mUjXJe0EXVU.png) WNJXYK
+[ 145 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15444)
+### [A Theoretical Study on Bridging Internal Probability and Self-Consistency for LLM Reasoning](https://huggingface.co/papers/2510.15444)
+[![LAMDA-NeSy](https://cdn-uploads.huggingface.co/production/uploads/63fc116b1b4b1bd4e707d198/iLEbqB8j_71vnPvAekqQC.jpeg) NJU-IRP](https://huggingface.co/LAMDA-NeSy)
+[10](https://huggingface.co/papers/2510.15444) [](https://huggingface.co/papers/2510.15444#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.12276.png)](https://huggingface.co/papers/2510.12276)
+Submitted by ![](https://huggingface.co/avatars/52b9ee7f899ee5431ed37fd1db378d9e.svg) Wenxuan123
+[ 142 ](https://huggingface.co/login?next=%2Fpapers%2F2510.12276)
+### [Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model](https://huggingface.co/papers/2510.12276)
+[ HKUSTGZ](https://huggingface.co/HKUSTGZ)
+[115](https://huggingface.co/papers/2510.12276) [](https://huggingface.co/papers/2510.12276#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.25541.png)](https://huggingface.co/papers/2509.25541)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 139 ](https://huggingface.co/login?next=%2Fpapers%2F2509.25541)
+### [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://huggingface.co/papers/2509.25541)
+[
+  * ![](https://huggingface.co/avatars/bda87559cd497c310597c2fc8430b31f.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64b5198c25882acb62fb77ef/HX9pfMEPQlfjvSAgSLplY.png)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/VJ4cDyjp5M3V5WmI5gPIU.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1667120725800-635e3a76106f984574c36409.png)
+  * · 9 authors
+
+](https://huggingface.co/papers/2509.25541)
+[98](https://huggingface.co/papers/2509.25541) [](https://huggingface.co/papers/2509.25541#community)
+[](https://huggingface.co/papers/2510.05684)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/646484cfb90150b2706df03b/8ocSbXBSbrruhlhcxwzEt.png) lastdefiance20
+[ 137 ](https://huggingface.co/login?next=%2Fpapers%2F2510.05684)
+### [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI](https://huggingface.co/papers/2510.05684)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/er_WDGEq0HY8rpIg69v0G.png)
+  * ![](https://huggingface.co/avatars/dd288377385efc7b8b24bc88bd9c27d6.svg)
+  * ![](https://huggingface.co/avatars/6cda37befc873a92ed6d5dcba507954a.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/646484cfb90150b2706df03b/8ocSbXBSbrruhlhcxwzEt.png)
+  * ![](https://huggingface.co/avatars/0aae0ad956bdb2345732ca47fb28e3b6.svg)
+  * · 10 authors
+
+](https://huggingface.co/papers/2510.05684)
+[52](https://huggingface.co/papers/2510.05684) [](https://huggingface.co/papers/2510.05684#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.25454.png)](https://huggingface.co/papers/2509.25454)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/7oMEoBmaFiCR9K2q9Z_7q.png) fangwu97
+[ 136 ](https://huggingface.co/login?next=%2Fpapers%2F2509.25454)
+### [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://huggingface.co/papers/2509.25454)
+[![stanfordnlp](https://cdn-uploads.huggingface.co/production/uploads/1628624969199-6032802e1f993496bc14d9e3.png) Stanford NLP](https://huggingface.co/stanfordnlp)
+[12](https://huggingface.co/papers/2509.25454) [](https://huggingface.co/papers/2509.25454#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08673.png)](https://huggingface.co/papers/2510.08673)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/65bc98383b879593a5a2f5e5/p2ZtoTFN6tW-QkcPJf7YT.jpeg) KangLiao
+[ 121 ](https://huggingface.co/login?next=%2Fpapers%2F2510.08673)
+### [Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://huggingface.co/papers/2510.08673)
+[![mmlab-ntu](https://cdn-uploads.huggingface.co/production/uploads/1658151991971-62b5777f593a2c49da69dc02.png) MMLab@NTU](https://huggingface.co/mmlab-ntu)
+[307](https://huggingface.co/papers/2510.08673) [](https://huggingface.co/papers/2510.08673#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23564.png)](https://huggingface.co/papers/2510.23564)
+Submitted by ![](https://huggingface.co/avatars/9fcee1023ed5c6cddb3c342e19f18295.svg) MoshiQAQ
+[ 118 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23564)
+### [ReCode: Unify Plan and Action for Universal Granularity Control](https://huggingface.co/papers/2510.23564)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/654a97282d2fcd6bf2851173/9zXf940gr4WNt4e-oOt4k.png)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6742e356f8883755e01c6053/11gforECOJfeY5_O9ERuO.png)
+  * ![](https://huggingface.co/avatars/afa5ce72324112739e539865c9aee26b.svg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.23564)
+[386](https://huggingface.co/papers/2510.23564) [](https://huggingface.co/papers/2510.23564#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18121.png)](https://huggingface.co/papers/2510.18121)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/643839d9581e6bf0fa9c835e/JxlgR-zQhms-rfF0sDxD8.jpeg) GindaChen
+[ 117 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18121)
+### [Efficient Long-context Language Model Training by Core Attention Disaggregation](https://huggingface.co/papers/2510.18121)
+[
+  * ![](https://huggingface.co/avatars/459794e67d43a4b739ddcf90d1921b31.svg)
+  * ![](https://huggingface.co/avatars/bfc157c6e824b140d57b83c35c34d453.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/643839d9581e6bf0fa9c835e/JxlgR-zQhms-rfF0sDxD8.jpeg)
+  * ![](https://huggingface.co/avatars/bfa00418c46da0fd1e522d6561944ec9.svg)
+  * · 9 authors
+
+](https://huggingface.co/papers/2510.18121)
+[](https://huggingface.co/papers/2510.18121#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.04618.png)](https://huggingface.co/papers/2510.04618)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 117 ](https://huggingface.co/login?next=%2Fpapers%2F2510.04618)
+### [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://huggingface.co/papers/2510.04618)
+[
+  * ![](https://huggingface.co/avatars/60d3c8dfb85cad54c5ebc9f6e44100db.svg)
+  * ![](https://huggingface.co/avatars/ad7de02bb5c86544b3c1150ca5e8dfc1.svg)
+  * ![](https://huggingface.co/avatars/2a4589fef05306ccde06728c752e5601.svg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.04618)
+[](https://huggingface.co/papers/2510.04618#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.01141.png)](https://huggingface.co/papers/2510.01141)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/62d913739a5353eef9d7edf3/pRgen2izGJle3ahupOdC7.jpeg) amant555
+[ 115 ](https://huggingface.co/login?next=%2Fpapers%2F2510.01141)
+### [Apriel-1.5-15b-Thinker](https://huggingface.co/papers/2510.01141)
+[![ServiceNow-AI](https://cdn-uploads.huggingface.co/production/uploads/63d3095c2727d7888cbb54e2/Uv-Lx8PVGviqokfOyYlCN.png) ServiceNow-AI](https://huggingface.co/ServiceNow-AI)
+[](https://huggingface.co/papers/2510.01141#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.26697.png)](https://huggingface.co/papers/2510.26697)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1652335660508-noauth.jpeg) GMFTBY
+[ 114 ](https://huggingface.co/login?next=%2Fpapers%2F2510.26697)
+### [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697)
+[![tencent](https://cdn-uploads.huggingface.co/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png) Tencent](https://huggingface.co/tencent)
+[55](https://huggingface.co/papers/2510.26697) [](https://huggingface.co/papers/2510.26697#community)
+[](https://huggingface.co/papers/2510.05096)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64440be5af034cdfd69ca3a7/qmx24QiDFT29vleCxL9TX.jpeg) KevinQHLin
+[ 111 ](https://huggingface.co/login?next=%2Fpapers%2F2510.05096)
+### [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096)
+[![showlab](https://cdn-uploads.huggingface.co/production/uploads/1671779505215-63a55320ce5763e06f78519c.png) Show Lab](https://huggingface.co/showlab)
+[1.48k](https://huggingface.co/papers/2510.05096) [](https://huggingface.co/papers/2510.05096#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.04849.png)](https://huggingface.co/papers/2510.04849)
+Submitted by ![](https://huggingface.co/avatars/842719c100a5969be75d04da97333675.svg) Vasily
+[ 111 ](https://huggingface.co/login?next=%2Fpapers%2F2510.04849)
+### [When Models Lie, We Learn: Multilingual Span-Level Hallucination Detection with PsiloQA](https://huggingface.co/papers/2510.04849)
+[
+  * ![](https://huggingface.co/avatars/bb213ee4e300fc9143b544f3ecdb88e8.svg)
+  * ![](https://huggingface.co/avatars/842719c100a5969be75d04da97333675.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1667991162387-noauth.png)
+  * · 9 authors
+
+](https://huggingface.co/papers/2510.04849)
+[11](https://huggingface.co/papers/2510.04849) [](https://huggingface.co/papers/2510.04849#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.19338.png)](https://huggingface.co/papers/2510.19338)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 110 ](https://huggingface.co/login?next=%2Fpapers%2F2510.19338)
+### [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://huggingface.co/papers/2510.19338)
+[![antgroup](https://cdn-uploads.huggingface.co/production/uploads/662e1f9da266499277937d33/7VcPHdLSGlged3ixK1dys.jpeg) Ant Group](https://huggingface.co/antgroup)
+[](https://huggingface.co/papers/2510.19338#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08540.png)](https://huggingface.co/papers/2510.08540)
+Submitted by ![](https://huggingface.co/avatars/efc93bc767e561c6c6d429f65c23382d.svg) PhoenixZ
+[ 108 ](https://huggingface.co/login?next=%2Fpapers%2F2510.08540)
+### [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6601196cc91ba4c08ad6e270/X2YPNzUOQXBz5Gv-xR9LW.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/659d2dff20cf0b934bbee513/9e9R852Zr2R82h64eUUQl.jpeg)
+  * ![](https://huggingface.co/avatars/e6f9dad6587ee0883ae10f8805ab7ea9.svg)
+  * ![](https://huggingface.co/avatars/e1a82df58af02c0ff08287e78f438480.svg)
+  * ![](https://huggingface.co/avatars/efc93bc767e561c6c6d429f65c23382d.svg)
+  * · 14 authors
+
+](https://huggingface.co/papers/2510.08540)
+[73](https://huggingface.co/papers/2510.08540) [](https://huggingface.co/papers/2510.08540#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18866.png)](https://huggingface.co/papers/2510.18866)
+Submitted by ![](https://huggingface.co/avatars/e0fccbb2577d76088e09f054c35cffbc.svg) Ningyu
+[ 107 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18866)
+### [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://huggingface.co/papers/2510.18866)
+[ Zhejiang University](https://huggingface.co/ZhejiangUniversity)
+[353](https://huggingface.co/papers/2510.18866) [](https://huggingface.co/papers/2510.18866#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.12586.png)](https://huggingface.co/papers/2510.12586)
+Submitted by ![](https://huggingface.co/avatars/c56e4792332a01bf34085a75ee64916e.svg) xiaochonglinghu
+[ 107 ](https://huggingface.co/login?next=%2Fpapers%2F2510.12586)
+### [Advancing End-to-End Pixel Space Generative Modeling via Self-supervised Pre-training](https://huggingface.co/papers/2510.12586)
+[![GD-ML](https://cdn-uploads.huggingface.co/production/uploads/67d116c47be76de1a40873ca/s5ukAx9E36ZZIKvbpBRi4.png) AMAP-ML](https://huggingface.co/GD-ML)
+[121](https://huggingface.co/papers/2510.12586) [](https://huggingface.co/papers/2510.12586#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.00446.png)](https://huggingface.co/papers/2510.00446)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/645b0c3ec35da9c7afd95421/vYBrCDagHsXAo6J2p-uG0.jpeg) YerbaPage
+[ 107 ](https://huggingface.co/login?next=%2Fpapers%2F2510.00446)
+### [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446)
+[![Stanford-University](https://cdn-uploads.huggingface.co/production/uploads/6724cfba409a4f96ce1d773b/BjPcf9AfmEU3WeSVb33s8.png) Stanford University](https://huggingface.co/Stanford-University)
+[118](https://huggingface.co/papers/2510.00446) [](https://huggingface.co/papers/2510.00446#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.12403.png)](https://huggingface.co/papers/2510.12403)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63d67eac6f49aa8230601996/djvtWdy718whUgh7tu1Ko.jpeg) fracapuano
+[ 103 ](https://huggingface.co/login?next=%2Fpapers%2F2510.12403)
+### [Robot Learning: A Tutorial](https://huggingface.co/papers/2510.12403)
+[![lerobot](https://cdn-uploads.huggingface.co/production/uploads/631ce4b244503b72277fc89f/pcLUTLsvMQiR-ujlTgLYF.png) LeRobot](https://huggingface.co/lerobot)
+[369](https://huggingface.co/papers/2510.12403) [](https://huggingface.co/papers/2510.12403#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.26583.png)](https://huggingface.co/papers/2510.26583)
+Submitted by ![](https://huggingface.co/avatars/2a439d79fba2f987cabe780d10c94d25.svg) xinlongwang
+[ 102 ](https://huggingface.co/login?next=%2Fpapers%2F2510.26583)
+### [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583)
+[![BAAI](https://cdn-uploads.huggingface.co/production/uploads/1664511063789-632c234f42c386ebd2710434.png) Beijing Academy of Artificial Intelligence](https://huggingface.co/BAAI)
+[1.19k](https://huggingface.co/papers/2510.26583) [](https://huggingface.co/papers/2510.26583#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.26692.png)](https://huggingface.co/papers/2510.26692)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 101 ](https://huggingface.co/login?next=%2Fpapers%2F2510.26692)
+### [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692)
+[![moonshotai](https://cdn-uploads.huggingface.co/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg) Moonshot AI](https://huggingface.co/moonshotai)
+[1.11k](https://huggingface.co/papers/2510.26692) [](https://huggingface.co/papers/2510.26692#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14545.png)](https://huggingface.co/papers/2510.14545)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/61cd4b833dd34ba1985e0753/BfHfrwotoMESpXZOHiIe4.png) dongguanting
+[ 101 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14545)
+### [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545)
+[![RUC](https://cdn-uploads.huggingface.co/production/uploads/61ac8f8a00d01045fca0ad2f/670IAX9A2-BflqA5MiSBW.jpeg) Renmin University of China](https://huggingface.co/RUC)
+[765](https://huggingface.co/papers/2510.14545) [](https://huggingface.co/papers/2510.14545#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.05592.png)](https://huggingface.co/papers/2510.05592)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/66349404f2c753240d02952a/xKBKicwyk7BoOITQPwBJn.png) ZhuofengLi
+[ 99 ](https://huggingface.co/login?next=%2Fpapers%2F2510.05592)
+### [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://huggingface.co/papers/2510.05592)
+[![Stanford](https://cdn-uploads.huggingface.co/production/uploads/604d2f473050a33ebb17ef51/Z-vDTyG_6-yZhzfXklqAK.jpeg) Stanford AI](https://huggingface.co/Stanford)
+[1.21k](https://huggingface.co/papers/2510.05592) [](https://huggingface.co/papers/2510.05592#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.11693.png)](https://huggingface.co/papers/2510.11693)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63108cc834c7d77420b0fd68/taDnqEmcI9Rhe3uzcPEE3.jpeg) gowitheflow
+[ 97 ](https://huggingface.co/login?next=%2Fpapers%2F2510.11693)
+### [Scaling Language-Centric Omnimodal Representation Learning](https://huggingface.co/papers/2510.11693)
+[![Alibaba-DAMO-Academy](https://cdn-uploads.huggingface.co/production/uploads/6808e64de5dd22427c006e10/9J3vdB62CdeTOd_YrGh9w.jpeg) DAMO Academy](https://huggingface.co/Alibaba-DAMO-Academy)
+[25](https://huggingface.co/papers/2510.11693) [](https://huggingface.co/papers/2510.11693#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.24668.png)](https://huggingface.co/papers/2510.24668)
+Submitted by ![](https://huggingface.co/avatars/afa5ce72324112739e539865c9aee26b.svg) didiforhugface
+[ 96 ](https://huggingface.co/login?next=%2Fpapers%2F2510.24668)
+### [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://huggingface.co/papers/2510.24668)
+[
+  * ![](https://huggingface.co/avatars/363ea68811f5aab72c47637385128346.svg)
+  * ![](https://huggingface.co/avatars/8423d009aa8f3737b2309c64d1d71b65.svg)
+  * ![](https://huggingface.co/avatars/afa5ce72324112739e539865c9aee26b.svg)
+  * · 25 authors
+
+](https://huggingface.co/papers/2510.24668)
+[14](https://huggingface.co/papers/2510.24668) [](https://huggingface.co/papers/2510.24668#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.03215.png)](https://huggingface.co/papers/2510.03215)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6445fd9ba56444c355dcbcba/NCyRCD-MK-yA0_qY6I2y0.png) fuvty
+[ 96 ](https://huggingface.co/login?next=%2Fpapers%2F2510.03215)
+### [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://huggingface.co/papers/2510.03215)
+[![nics-efc](https://cdn-uploads.huggingface.co/production/uploads/641031b1a78453b8d96b8420/vmgxct2WsyHcKT2x2NAYT.jpeg) Tsinghua-NICS-EFC](https://huggingface.co/nics-efc)
+[251](https://huggingface.co/papers/2510.03215) [](https://huggingface.co/papers/2510.03215#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23538.png)](https://huggingface.co/papers/2510.23538)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1617207525789-noauth.png) QiushiSun
+[ 95 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23538)
+### [JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence](https://huggingface.co/papers/2510.23538)
+[![internlm](https://cdn-uploads.huggingface.co/production/uploads/6445306bc525660aa2099ecc/ipmEgm86UIby2q5q7NkKm.jpeg) Intern Large Models](https://huggingface.co/internlm)
+[62](https://huggingface.co/papers/2510.23538) [](https://huggingface.co/papers/2510.23538#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.09116.png)](https://huggingface.co/papers/2510.09116)
+Submitted by ![](https://huggingface.co/avatars/b112b1f5903806e55aabd16aafdeee10.svg) Everything-is-Ok
+[ 95 ](https://huggingface.co/login?next=%2Fpapers%2F2510.09116)
+### [DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation](https://huggingface.co/papers/2510.09116)
+[![NextGenWhu](https://cdn-uploads.huggingface.co/production/uploads/6479f4317c18dca75e9a9324/DydmQ18EutkpFraI3FGpy.png) CLAIN-WHU](https://huggingface.co/NextGenWhu)
+[9](https://huggingface.co/papers/2510.09116) [](https://huggingface.co/papers/2510.09116#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.16872.png)](https://huggingface.co/papers/2510.16872)
+Submitted by ![](https://huggingface.co/avatars/a9e9c97c70714e3a29bef2cf929ee6b3.svg) zhangshaolei
+[ 93 ](https://huggingface.co/login?next=%2Fpapers%2F2510.16872)
+### [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://huggingface.co/papers/2510.16872)
+[![RUC-DataLab](https://cdn-uploads.huggingface.co/production/uploads/64803e5dc57f629056c601f1/tsYgFKBKYc4VNfO8g5zmP.png) RUC-DataLab](https://huggingface.co/RUC-DataLab)
+[1.8k](https://huggingface.co/papers/2510.16872) [](https://huggingface.co/papers/2510.16872#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.21618.png)](https://huggingface.co/papers/2510.21618)
+Submitted by ![](https://huggingface.co/avatars/2b739ff11e43dd9e701c647a92617f20.svg) lixiaoxi45
+[ 92 ](https://huggingface.co/login?next=%2Fpapers%2F2510.21618)
+### [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618)
+[
+  * ![](https://huggingface.co/avatars/be97941e60064e5dd806c6fe9db3c537.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/61cd4b833dd34ba1985e0753/BfHfrwotoMESpXZOHiIe4.png)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/646cc5add2cc138217dbe133/Uzvt9_UWIRIT4t4gHdjid.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63db16330cc3bc12bc0b6f8f/ld0JQIfX1SBlDVDOmw9VT.jpeg)
+  * · 11 authors
+
+](https://huggingface.co/papers/2510.21618)
+[714](https://huggingface.co/papers/2510.21618) [](https://huggingface.co/papers/2510.21618#community)
+[](https://huggingface.co/papers/2510.02283)
+Submitted by ![](https://huggingface.co/avatars/b2a1b939f3112b476e7641e0c5fd2dc7.svg) cuijiaxing
+[ 92 ](https://huggingface.co/login?next=%2Fpapers%2F2510.02283)
+### [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283)
+[![ByteDance-Seed](https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png) ByteDance Seed](https://huggingface.co/ByteDance-Seed)
+[184](https://huggingface.co/papers/2510.02283) [](https://huggingface.co/papers/2510.02283#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.24701.png)](https://huggingface.co/papers/2510.24701)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 90 ](https://huggingface.co/login?next=%2Fpapers%2F2510.24701)
+### [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701)
+[![AlibabaTongyiLab](https://cdn-uploads.huggingface.co/production/uploads/67d1502bfabfe9974d1f77bb/XdUSVf6HqBzE7zFBfSDQP.png) TongyiLab](https://huggingface.co/AlibabaTongyiLab)
+[](https://huggingface.co/papers/2510.24701#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.01051.png)](https://huggingface.co/papers/2510.01051)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 88 ](https://huggingface.co/login?next=%2Fpapers%2F2510.01051)
+### [GEM: A Gym for Agentic LLMs](https://huggingface.co/papers/2510.01051)
+[![sail](https://cdn-uploads.huggingface.co/production/uploads/1643440185801-5df833bdda6d0311fd3d5403.png) Sea AI Lab](https://huggingface.co/sail)
+[351](https://huggingface.co/papers/2510.01051) [](https://huggingface.co/papers/2510.01051#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18135.png)](https://huggingface.co/papers/2510.18135)
+Submitted by ![](https://huggingface.co/avatars/7314fd5f3f642096d0e37d3194f1aa7e.svg) jienengchen
+[ 87 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18135)
+### [World-in-World: World Models in a Closed-Loop World](https://huggingface.co/papers/2510.18135)
+[
+  * ![](https://huggingface.co/avatars/7314fd5f3f642096d0e37d3194f1aa7e.svg)
+  * ![](https://huggingface.co/avatars/0280d4df417855965a0964d22766c012.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63fe24448b3c5087ff866b39/ObkydCg0MoFa_bNUJI805.jpeg)
+  * ![](https://huggingface.co/avatars/8d43531365e2e78e568db9e0a421196a.svg)
+  * · 17 authors
+
+](https://huggingface.co/papers/2510.18135)
+[80](https://huggingface.co/papers/2510.18135) [](https://huggingface.co/papers/2510.18135#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.15870.png)](https://huggingface.co/papers/2510.15870)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 86 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15870)
+### [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM](https://huggingface.co/papers/2510.15870)
+[![nvidia](https://cdn-uploads.huggingface.co/production/uploads/1613114437487-60262a8e0703121c822a80b6.png) NVIDIA](https://huggingface.co/nvidia)
+[487](https://huggingface.co/papers/2510.15870) [](https://huggingface.co/papers/2510.15870#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png)](https://huggingface.co/papers/2510.14528)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 85 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14528)
+### [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)
+[![PaddlePaddle](https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png) PaddlePaddle](https://huggingface.co/PaddlePaddle)
+[63.2k](https://huggingface.co/papers/2510.14528) [](https://huggingface.co/papers/2510.14528#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23473.png)](https://huggingface.co/papers/2510.23473)
+Submitted by ![](https://huggingface.co/avatars/2b739ff11e43dd9e701c647a92617f20.svg) lixiaoxi45
+[ 83 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23473)
+### [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://huggingface.co/papers/2510.23473)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/646cc5add2cc138217dbe133/Uzvt9_UWIRIT4t4gHdjid.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/QTh1c-okqsl-NLHatc8Gu.png)
+  * · 9 authors
+
+](https://huggingface.co/papers/2510.23473)
+[105](https://huggingface.co/papers/2510.23473) [](https://huggingface.co/papers/2510.23473#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18927.png)](https://huggingface.co/papers/2510.18927)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/653a6e5cae155b92bae77b74/TA5FWKAUsB249ux4MzD_R.jpeg) WooooDyy
+[ 82 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18927)
+### [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping](https://huggingface.co/papers/2510.18927)
+[
+  * ![](https://huggingface.co/avatars/5ce312d2343715f07324dabefea624ad.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6334f2f1259c518276efa730/z_SH_OBkDyj4RCN9mqsKS.jpeg)
+  * ![](https://huggingface.co/avatars/2bb01b4ef391140daa8299f6a55c19a3.svg)
+  * · 21 authors
+
+](https://huggingface.co/papers/2510.18927)
+[77](https://huggingface.co/papers/2510.18927) [](https://huggingface.co/papers/2510.18927#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14975.png)](https://huggingface.co/papers/2510.14975)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 80 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14975)
+### [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975)
+[![stepfun-ai](https://cdn-uploads.huggingface.co/production/uploads/66935cee39002fc0569c2943/Qv8QPbkgoKE3wR4jTzHiy.png) StepFun](https://huggingface.co/stepfun-ai)
+[469](https://huggingface.co/papers/2510.14975) [](https://huggingface.co/papers/2510.14975#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.02245.png)](https://huggingface.co/papers/2510.02245)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/62495cb96ee7ee6b646db130/UwBXmvcMq7LMvBWUw0xo3.jpeg) rzzhan
+[ 78 ](https://huggingface.co/login?next=%2Fpapers%2F2510.02245)
+### [ExGRPO: Learning to Reason from Experience](https://huggingface.co/papers/2510.02245)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/62495cb96ee7ee6b646db130/UwBXmvcMq7LMvBWUw0xo3.jpeg)
+  * · 8 authors
+
+](https://huggingface.co/papers/2510.02245)
+[364](https://huggingface.co/papers/2510.02245) [](https://huggingface.co/papers/2510.02245#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.25848.png)](https://huggingface.co/papers/2509.25848)
+Submitted by ![](https://huggingface.co/avatars/8ba76de6092e5d9fcc4f23d548befe9a.svg) xytian1008
+[ 78 ](https://huggingface.co/login?next=%2Fpapers%2F2509.25848)
+### [More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models](https://huggingface.co/papers/2509.25848)
+[
+  * ![](https://huggingface.co/avatars/768e4dd418567ae066563f3d3a7217fd.svg)
+  * ![](https://huggingface.co/avatars/8ba76de6092e5d9fcc4f23d548befe9a.svg)
+  * · 8 authors
+
+](https://huggingface.co/papers/2509.25848)
+[75](https://huggingface.co/papers/2509.25848) [](https://huggingface.co/papers/2509.25848#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.09426.png)](https://huggingface.co/papers/2510.09426)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6435a57b2d0ed796668d8a3f/fsOmfjqCS9TkI9NMjCFM2.png) mjkmain
+[ 76 ](https://huggingface.co/login?next=%2Fpapers%2F2510.09426)
+### [KORMo: Korean Open Reasoning Model for Everyone](https://huggingface.co/papers/2510.09426)
+[![KORMo-Team](https://cdn-uploads.huggingface.co/production/uploads/659f7345e98a198ba7fcb89e/PJ4L1myPXBIjzUSO6-T7i.png) KORMo](https://huggingface.co/KORMo-Team)
+[93](https://huggingface.co/papers/2510.09426) [](https://huggingface.co/papers/2510.09426#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.24107.png)](https://huggingface.co/papers/2509.24107)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64ccc06cf103036e23f0162f/kLwjzbxNobLxwN_GUuPrP.jpeg) Ogkunal
+[ 76 ](https://huggingface.co/login?next=%2Fpapers%2F2509.24107)
+### [Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and Synthesis for SLMs](https://huggingface.co/papers/2509.24107)
+[![FractalAIResearch](https://cdn-uploads.huggingface.co/production/uploads/67ff900add7320db615695bc/K01LCMcPGn6QppOlYlDjF.png) Fractal AI Research](https://huggingface.co/FractalAIResearch)
+[47](https://huggingface.co/papers/2509.24107) [](https://huggingface.co/papers/2509.24107#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.22944.png)](https://huggingface.co/papers/2509.22944)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/XyPVTSmon49qmwELaMrnX.png) pbicho
+[ 76 ](https://huggingface.co/login?next=%2Fpapers%2F2509.22944)
+### [SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights](https://huggingface.co/papers/2509.22944)
+[![huawei-csl](https://cdn-uploads.huggingface.co/production/uploads/6442ef61860f7a25bef0ea51/rkv-GMqP_NCzoQxXhsvuW.jpeg) HUAWEI Computing Systems Lab](https://huggingface.co/huawei-csl)
+[568](https://huggingface.co/papers/2509.22944) [](https://huggingface.co/papers/2509.22944#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.06679.png)](https://huggingface.co/papers/2510.06679)
+Submitted by ![](https://huggingface.co/avatars/c1228db09b88c9246aab48da7ae82f7c.svg) binxia
+[ 74 ](https://huggingface.co/login?next=%2Fpapers%2F2510.06679)
+### [DreamOmni2: Multimodal Instruction-based Editing and Generation](https://huggingface.co/papers/2510.06679)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6423e35b30b0e4ab36dd1b16/pea6LVDS9PQAxvQt9GUiZ.jpeg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.06679)
+[](https://huggingface.co/papers/2510.06679#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18234.png)](https://huggingface.co/papers/2510.18234)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/651e96991b97c9f33d26bde6/-Bqs6qrmz0yCfwtB2e-6q.jpeg) eliebak
+[ 72 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18234)
+### [DeepSeek-OCR: Contexts Optical Compression](https://huggingface.co/papers/2510.18234)
+[![deepseek-ai](https://cdn-uploads.huggingface.co/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png) DeepSeek](https://huggingface.co/deepseek-ai)
+[](https://huggingface.co/papers/2510.18234#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14359.png)](https://huggingface.co/papers/2510.14359)
+Submitted by ![](https://huggingface.co/avatars/b68880022e14556d0be58c69615db3be.svg) zichenwen
+[ 71 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14359)
+### [AI for Service: Proactive Assistance with AI Glasses](https://huggingface.co/papers/2510.14359)
+[![SJTU](https://cdn-uploads.huggingface.co/production/uploads/1676013394657-63e5ee22b6a40bf941da0928.png) Shanghai Jiao Tong University](https://huggingface.co/SJTU)
+[](https://huggingface.co/papers/2510.14359#community)
+[](https://huggingface.co/papers/2510.13678)
+Submitted by ![](https://huggingface.co/avatars/0ae1080eebce0f747f650bfc292c46ca.svg) imlixinyang
+[ 70 ](https://huggingface.co/login?next=%2Fpapers%2F2510.13678)
+### [FlashWorld: High-quality 3D Scene Generation within Seconds](https://huggingface.co/papers/2510.13678)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64b4b415a15d33a1bcc6ba6a/vqxjy7NFiRJMK9gdtOaz_.jpeg)
+  * · 6 authors
+
+](https://huggingface.co/papers/2510.13678)
+[516](https://huggingface.co/papers/2510.13678) [](https://huggingface.co/papers/2510.13678#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08377.png)](https://huggingface.co/papers/2510.08377)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 70 ](https://huggingface.co/login?next=%2Fpapers%2F2510.08377)
+### [UniVideo: Unified Understanding, Generation, and Editing for Videos](https://huggingface.co/papers/2510.08377)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64f8e358766ff9f3d2b0de84/R2P1YG-mRBh7TU9wkjGGk.jpeg)
+  * · 8 authors
+
+](https://huggingface.co/papers/2510.08377)
+[](https://huggingface.co/papers/2510.08377#community)
+[](https://huggingface.co/papers/2510.06590)
+Submitted by ![](https://huggingface.co/avatars/fd2d82c4fb2834edae516e904424a462.svg) forde450
+[ 70 ](https://huggingface.co/login?next=%2Fpapers%2F2510.06590)
+### [Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer](https://huggingface.co/papers/2510.06590)
+[![inclusionAI](https://cdn-uploads.huggingface.co/production/uploads/662e1f9da266499277937d33/fyKuazRifqiaIO34xrhhm.jpeg) inclusionAI](https://huggingface.co/inclusionAI)
+[118](https://huggingface.co/papers/2510.06590) [](https://huggingface.co/papers/2510.06590#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.03279.png)](https://huggingface.co/papers/2510.03279)
+Submitted by ![](https://huggingface.co/avatars/11cc80d3c03747fd869e4dc1dbdd031a.svg) Blue-Giant
+[ 69 ](https://huggingface.co/login?next=%2Fpapers%2F2510.03279)
+### [MemMamba: Rethinking Memory Patterns in State Space Model](https://huggingface.co/papers/2510.03279)
+[
+  * · 5 authors
+
+](https://huggingface.co/papers/2510.03279)
+[](https://huggingface.co/papers/2510.03279#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18855.png)](https://huggingface.co/papers/2510.18855)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 68 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18855)
+### [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](https://huggingface.co/papers/2510.18855)
+[![inclusionAI](https://cdn-uploads.huggingface.co/production/uploads/662e1f9da266499277937d33/fyKuazRifqiaIO34xrhhm.jpeg) inclusionAI](https://huggingface.co/inclusionAI)
+[75](https://huggingface.co/papers/2510.18855) [](https://huggingface.co/papers/2510.18855#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.19600.png)](https://huggingface.co/papers/2510.19600)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6448b2f53e7b3c11be684348/QvlUQG3pWf8ZyEVBV6F7w.jpeg) Mqleet
+[ 67 ](https://huggingface.co/login?next=%2Fpapers%2F2510.19600)
+### [Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600)
+[ AutoLab](https://huggingface.co/AutoLab-SJTU)
+[135](https://huggingface.co/papers/2510.19600) [](https://huggingface.co/papers/2510.19600#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.23873.png)](https://huggingface.co/papers/2509.23873)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/WZQ5f8oqpni0i-D3a5R-P.png) Jessamine
+[ 67 ](https://huggingface.co/login?next=%2Fpapers%2F2509.23873)
+### [Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token Pruning for Efficient Supervised Fine-Tuning](https://huggingface.co/papers/2509.23873)
+[![alibabagroup](https://cdn-uploads.huggingface.co/production/uploads/68be3ab7e52df040b2cf80dc/li4G29u_EGswyTN1Sm_Kq.png) alibaba](https://huggingface.co/alibabagroup)
+[](https://huggingface.co/papers/2509.23873#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.18701.png)](https://huggingface.co/papers/2510.18701)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 66 ](https://huggingface.co/login?next=%2Fpapers%2F2510.18701)
+### [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://huggingface.co/papers/2510.18701)
+[
+  * ![](https://huggingface.co/avatars/bcc9bf5cbf67546ad2b4c9ec8b96ac96.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63859cf3b2906edaf83af9f0/kajwuVzd4pDucSPlwghxo.png)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/KXQaAxulqr8jNBSpEaYM4.png)
+  * · 11 authors
+
+](https://huggingface.co/papers/2510.18701)
+[110](https://huggingface.co/papers/2510.18701) [](https://huggingface.co/papers/2510.18701#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.24699.png)](https://huggingface.co/papers/2510.24699)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/8k3b44MbhQiWuo6i8BnYl.jpeg) callanwu
+[ 65 ](https://huggingface.co/login?next=%2Fpapers%2F2510.24699)
+### [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://huggingface.co/papers/2510.24699)
+[![AlibabaTongyiLab](https://cdn-uploads.huggingface.co/production/uploads/67d1502bfabfe9974d1f77bb/XdUSVf6HqBzE7zFBfSDQP.png) TongyiLab](https://huggingface.co/AlibabaTongyiLab)
+[](https://huggingface.co/papers/2510.24699#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23587.png)](https://huggingface.co/papers/2510.23587)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/65dd77bfcb021a4a9ebdc62f/o58j3T670xByIjJhnNLj9.png) derrickzhu
+[ 65 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23587)
+### [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://huggingface.co/papers/2510.23587)
+[
+  * · 25 authors
+
+](https://huggingface.co/papers/2510.23587)
+[235](https://huggingface.co/papers/2510.23587) [](https://huggingface.co/papers/2510.23587#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.17800.png)](https://huggingface.co/papers/2510.17800)
+Submitted by ![](https://huggingface.co/avatars/805c5f909f52656345b8bde486c9fa8f.svg) CCCCCC
+[ 65 ](https://huggingface.co/login?next=%2Fpapers%2F2510.17800)
+### [Glyph: Scaling Context Windows via Visual-Text Compression](https://huggingface.co/papers/2510.17800)
+[
+  * · 14 authors
+
+](https://huggingface.co/papers/2510.17800)
+[](https://huggingface.co/papers/2510.17800#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.15511.png)](https://huggingface.co/papers/2510.15511)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63ab16a6d7ee953f604ecd52/ujylOpczHKxU6Kfr-jGVr.png) tmencatt
+[ 65 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15511)
+### [Language Models are Injective and Hence Invertible](https://huggingface.co/papers/2510.15511)
+[![gladia](https://cdn-uploads.huggingface.co/production/uploads/1617961184086-5e8ef1f14957053f606489e6.png) Gladia Research Group](https://huggingface.co/gladia)
+[](https://huggingface.co/papers/2510.15511#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14979.png)](https://huggingface.co/papers/2510.14979)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64b4a717aa03b6520839e9b8/Rt3ERG-6BVEA4hAwOz0_I.jpeg) Paranioar
+[ 65 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14979)
+### [From Pixels to Words -- Towards Native Vision-Language Primitives at Scale](https://huggingface.co/papers/2510.14979)
+[![SenseTime](https://cdn-uploads.huggingface.co/production/uploads/noauth/No33gl22RKB0HXjo-qpLX.png) SenseTime](https://huggingface.co/SenseTime)
+[222](https://huggingface.co/papers/2510.14979) [](https://huggingface.co/papers/2510.14979#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.00406.png)](https://huggingface.co/papers/2510.00406)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 64 ](https://huggingface.co/login?next=%2Fpapers%2F2510.00406)
+### [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://huggingface.co/papers/2510.00406)
+[
+  * ![](https://huggingface.co/avatars/21d277a1b46eabc967121a111e270cdd.svg)
+  * · 11 authors
+
+](https://huggingface.co/papers/2510.00406)
+[79](https://huggingface.co/papers/2510.00406) [](https://huggingface.co/papers/2510.00406#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.17269.png)](https://huggingface.co/papers/2510.17269)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 63 ](https://huggingface.co/login?next=%2Fpapers%2F2510.17269)
+### [FineVision: Open Data Is All You Need](https://huggingface.co/papers/2510.17269)
+[![huggingface](https://cdn-uploads.huggingface.co/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png) Hugging Face](https://huggingface.co/huggingface)
+[](https://huggingface.co/papers/2510.17269#community)
+[](https://huggingface.co/papers/2510.15019)
+Submitted by ![](https://huggingface.co/avatars/81ac5b749043e899f5017782409f9e28.svg) yejunliang23
+[ 63 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15019)
+### [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019)
+[
+  * ![](https://huggingface.co/avatars/81ac5b749043e899f5017782409f9e28.svg)
+  * · 8 authors
+
+](https://huggingface.co/papers/2510.15019)
+[116](https://huggingface.co/papers/2510.15019) [](https://huggingface.co/papers/2510.15019#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.17681.png)](https://huggingface.co/papers/2510.17681)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1650285458447-noauth.jpeg) Andrew613
+[ 62 ](https://huggingface.co/login?next=%2Fpapers%2F2510.17681)
+### [PICABench: How Far Are We from Physically Realistic Image Editing?](https://huggingface.co/papers/2510.17681)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/644a1b6401e18bf93a6f45c1/P0i_CgCrIzOS2tYRlxoE9.png)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/64770e86d7cf39f2e937ae9a/pLqGg2z1KzQxCGpMwds-9.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/662885b9b87483ae5a9ee5c9/fLzCrWizo_hy7zGuAqFwk.jpeg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1650285458447-noauth.jpeg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.17681)
+[27](https://huggingface.co/papers/2510.17681) [](https://huggingface.co/papers/2510.17681#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08555.png)](https://huggingface.co/papers/2510.08555)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 62 ](https://huggingface.co/login?next=%2Fpapers%2F2510.08555)
+### [VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning](https://huggingface.co/papers/2510.08555)
+[![KwaiVGI](https://cdn-uploads.huggingface.co/production/uploads/60e272ca6c78a8c122b12127/ZQV1aKLUDPf2rUcxxAqj6.jpeg) Kuaishou Visual Generation and Interaction Center](https://huggingface.co/KwaiVGI)
+[61](https://huggingface.co/papers/2510.08555) [](https://huggingface.co/papers/2510.08555#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.06217.png)](https://huggingface.co/papers/2510.06217)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/65c288280aa2d53135734a42/5WHmau52EaRS01TOMI3Qg.jpeg) jiaruz2
+[ 62 ](https://huggingface.co/login?next=%2Fpapers%2F2510.06217)
+### [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning](https://huggingface.co/papers/2510.06217)
+[![amazon](https://cdn-uploads.huggingface.co/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png) Amazon](https://huggingface.co/amazon)
+[](https://huggingface.co/papers/2510.06217#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.13344.png)](https://huggingface.co/papers/2510.13344)
+Submitted by ![](https://huggingface.co/avatars/a36b073c1c783102ddb455204fd816bd.svg) foggyforest
+[ 61 ](https://huggingface.co/login?next=%2Fpapers%2F2510.13344)
+### [UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE](https://huggingface.co/papers/2510.13344)
+[![HIT-TMG](https://cdn-uploads.huggingface.co/production/uploads/1658735061824-62986540f2bf8bd3e468622a.png) HITsz-Text and Multimodal Generative Intelligence Group(TMG)](https://huggingface.co/HIT-TMG)
+[800](https://huggingface.co/papers/2510.13344) [](https://huggingface.co/papers/2510.13344#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.19363.png)](https://huggingface.co/papers/2510.19363)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/62b0009c72043b05d29492b2/NqRkX2YLhlfOLvYysa7dD.png) lynazhang
+[ 59 ](https://huggingface.co/login?next=%2Fpapers%2F2510.19363)
+### [LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts](https://huggingface.co/papers/2510.19363)
+[![MicrosoftResearch](https://cdn-uploads.huggingface.co/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png) Microsoft Research](https://huggingface.co/MicrosoftResearch)
+[](https://huggingface.co/papers/2510.19363#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.19779.png)](https://huggingface.co/papers/2510.19779)
+Submitted by ![](https://huggingface.co/avatars/7bd900ade802d99db7c562ad6c2f6661.svg) yuezhouhu
+[ 58 ](https://huggingface.co/login?next=%2Fpapers%2F2510.19779)
+### [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders](https://huggingface.co/papers/2510.19779)
+[![GeorgiaTech](https://cdn-uploads.huggingface.co/production/uploads/64155e8abe60230f2f40b03a/3i-AL3LrNkaTarSKnaGy8.png) Georgia Institute of Technology](https://huggingface.co/GeorgiaTech)
+[24](https://huggingface.co/papers/2510.19779) [](https://huggingface.co/papers/2510.19779#community)
+[](https://huggingface.co/papers/2510.02314)
+Submitted by ![](https://huggingface.co/avatars/57430d1bbde3a2fe5586e5fbcafb0e74.svg) yulunliu
+[ 58 ](https://huggingface.co/login?next=%2Fpapers%2F2510.02314)
+### [StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions](https://huggingface.co/papers/2510.02314)
+[![NYCU](https://cdn-uploads.huggingface.co/production/uploads/63e39df6c65f975b436bb6b8/WLWf1bSpvrXBYYKEdXbgU.png) National Yang Ming Chiao Tung University](https://huggingface.co/NYCU)
+[57](https://huggingface.co/papers/2510.02314) [](https://huggingface.co/papers/2510.02314#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.03259.png)](https://huggingface.co/papers/2510.03259)
+Submitted by ![](https://huggingface.co/avatars/682ce5ee7d2fec7180dc8e1144cd12ab.svg) yjyjyj98
+[ 57 ](https://huggingface.co/login?next=%2Fpapers%2F2510.03259)
+### [Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning](https://huggingface.co/papers/2510.03259)
+[![kaist-ai](https://cdn-uploads.huggingface.co/production/uploads/6469949654873f0043b09c22/aaZFiyXe1qR-Dmy_xq67m.png) KAIST AI](https://huggingface.co/kaist-ai)
+[9](https://huggingface.co/papers/2510.03259) [](https://huggingface.co/papers/2510.03259#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23588.png)](https://huggingface.co/papers/2510.23588)
+Submitted by ![](https://huggingface.co/avatars/731467e2d80d0ae163c4a00a9e3ff9e5.svg) wujie10
+[ 56 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23588)
+### [FARMER: Flow AutoRegressive Transformer over Pixels](https://huggingface.co/papers/2510.23588)
+[
+  * ![](https://huggingface.co/avatars/731467e2d80d0ae163c4a00a9e3ff9e5.svg)
+  * · 9 authors
+
+](https://huggingface.co/papers/2510.23588)
+[](https://huggingface.co/papers/2510.23588#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.13554.png)](https://huggingface.co/papers/2510.13554)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/T-B6q6sqhWAyXM7Hk_qWp.jpeg) yangcole
+[ 56 ](https://huggingface.co/login?next=%2Fpapers%2F2510.13554)
+### [Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](https://huggingface.co/papers/2510.13554)
+[![alibaba-inc](https://cdn-uploads.huggingface.co/production/uploads/61ac8f8a00d01045fca0ad2f/MX4wxQVaFm1A1wqnrL2WU.jpeg) alibaba-inc](https://huggingface.co/alibaba-inc)
+[](https://huggingface.co/papers/2510.13554#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14847.png)](https://huggingface.co/papers/2510.14847)
+Submitted by ![](https://huggingface.co/avatars/c56e4792332a01bf34085a75ee64916e.svg) xiaochonglinghu
+[ 55 ](https://huggingface.co/login?next=%2Fpapers%2F2510.14847)
+### [ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://huggingface.co/papers/2510.14847)
+[![GD-ML](https://cdn-uploads.huggingface.co/production/uploads/67d116c47be76de1a40873ca/s5ukAx9E36ZZIKvbpBRi4.png) AMAP-ML](https://huggingface.co/GD-ML)
+[54](https://huggingface.co/papers/2510.14847) [](https://huggingface.co/papers/2510.14847#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.13795.png)](https://huggingface.co/papers/2510.13795)
+Submitted by ![](https://huggingface.co/avatars/0ccd8fe8de857753b534356a90eb10f0.svg) menghao22
+[ 55 ](https://huggingface.co/login?next=%2Fpapers%2F2510.13795)
+### [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](https://huggingface.co/papers/2510.13795)
+[![Open-Bee](https://cdn-uploads.huggingface.co/production/uploads/63b2efb5922f26a27e76381c/PU469_PkFTS-Gs40EDprp.png) Open-Bee](https://huggingface.co/Open-Bee)
+[0](https://huggingface.co/papers/2510.13795) [](https://huggingface.co/papers/2510.13795#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.20579.png)](https://huggingface.co/papers/2510.20579)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 54 ](https://huggingface.co/login?next=%2Fpapers%2F2510.20579)
+### [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://huggingface.co/papers/2510.20579)
+[![ByteDance](https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/0clr54wj5Ly-RkYU9OXPp.png) ByteDance](https://huggingface.co/ByteDance)
+[109](https://huggingface.co/papers/2510.20579) [](https://huggingface.co/papers/2510.20579#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.25760.png)](https://huggingface.co/papers/2509.25760)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/nchCipX-XWw2cnzYsU_Cv.jpeg) weizhepei
+[ 54 ](https://huggingface.co/login?next=%2Fpapers%2F2509.25760)
+### [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](https://huggingface.co/papers/2509.25760)
+[![facebook](https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png) AI at Meta](https://huggingface.co/facebook)
+[](https://huggingface.co/papers/2509.25760#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23763.png)](https://huggingface.co/papers/2510.23763)
+Submitted by ![](https://huggingface.co/avatars/495dbb73b69c399bae780da3118e332f.svg) sinwang
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23763)
+### [RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://huggingface.co/papers/2510.23763)
+[![OpenMOSS-Team](https://cdn-uploads.huggingface.co/production/uploads/61457b8deff2c9fdb4de4988/N5b9663zQ4uq5_OTNlnmw.png) OpenMOSS](https://huggingface.co/OpenMOSS-Team)
+[47](https://huggingface.co/papers/2510.23763) [](https://huggingface.co/papers/2510.23763#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.21890.png)](https://huggingface.co/papers/2510.21890)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/1649681653581-5f7fbd813e94f16a85448745.jpeg) sayakpaul
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.21890)
+### [The Principles of Diffusion Models](https://huggingface.co/papers/2510.21890)
+[
+  * · 5 authors
+
+](https://huggingface.co/papers/2510.21890)
+[](https://huggingface.co/papers/2510.21890#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.16880.png)](https://huggingface.co/papers/2510.16880)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/661b9d96c153e4a0a25adc3e/VRt7kCQ0KdJp-lhPLOajO.jpeg) weidawang
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.16880)
+### [Chem-R: Learning to Reason as a Chemist](https://huggingface.co/papers/2510.16880)
+[ shanghai ailab ](https://huggingface.co/ShanghaiAiLab)
+[15](https://huggingface.co/papers/2510.16880) [](https://huggingface.co/papers/2510.16880#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.13998.png)](https://huggingface.co/papers/2510.13998)
+Submitted by ![](https://huggingface.co/avatars/6e1533e8a599f3068290aa69ac82cab7.svg) buaahsh
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.13998)
+### [BitNet Distillation](https://huggingface.co/papers/2510.13998)
+[![MicrosoftResearch](https://cdn-uploads.huggingface.co/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png) Microsoft Research](https://huggingface.co/MicrosoftResearch)
+[24.4k](https://huggingface.co/papers/2510.13998) [](https://huggingface.co/papers/2510.13998#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.06308.png)](https://huggingface.co/papers/2510.06308)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.06308)
+### [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://huggingface.co/papers/2510.06308)
+[![Alpha-VLLM](https://cdn-uploads.huggingface.co/production/uploads/646f1bef075e11ca78da3bb7/mD7gobrnznzDXnpZ9ZiT8.png) Alpha-VLLM](https://huggingface.co/Alpha-VLLM)
+[870](https://huggingface.co/papers/2510.06308) [](https://huggingface.co/papers/2510.06308#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.02209.png)](https://huggingface.co/papers/2510.02209)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 52 ](https://huggingface.co/login?next=%2Fpapers%2F2510.02209)
+### [StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://huggingface.co/papers/2510.02209)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/66495ca132236a0fad5d3124/M_hHgHtV0n2OCV28PKRr9.jpeg)
+  * · 7 authors
+
+](https://huggingface.co/papers/2510.02209)
+[](https://huggingface.co/papers/2510.02209#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.24592.png)](https://huggingface.co/papers/2510.24592)
+Submitted by ![](https://huggingface.co/avatars/7d99ffa59c4579599e852a0ffb261268.svg) GuoxinChen
+[ 51 ](https://huggingface.co/login?next=%2Fpapers%2F2510.24592)
+### [ReForm: Reflective Autoformalization with Prospective Bounded Sequence Optimization](https://huggingface.co/papers/2510.24592)
+[
+  * ![](https://huggingface.co/avatars/7d99ffa59c4579599e852a0ffb261268.svg)
+  * · 9 authors
+
+](https://huggingface.co/papers/2510.24592)
+[16](https://huggingface.co/papers/2510.24592) [](https://huggingface.co/papers/2510.24592#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.11052.png)](https://huggingface.co/papers/2510.11052)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/hqrApQdsEufqXpXoKu_mn.jpeg) Monta3Pt
+[ 51 ](https://huggingface.co/login?next=%2Fpapers%2F2510.11052)
+### [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://huggingface.co/papers/2510.11052)
+[![KCL](https://cdn-uploads.huggingface.co/production/uploads/noauth/5He0nBg7T_cCURqZnf4mi.png) King's College London](https://huggingface.co/KCL)
+[](https://huggingface.co/papers/2510.11052#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.03222.png)](https://huggingface.co/papers/2510.03222)
+Submitted by ![](https://huggingface.co/avatars/79a1228181983d4587238e38a47e8cf8.svg) Carlanlarkk
+[ 51 ](https://huggingface.co/login?next=%2Fpapers%2F2510.03222)
+### [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://huggingface.co/papers/2510.03222)
+[![tencent](https://cdn-uploads.huggingface.co/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png) Tencent](https://huggingface.co/tencent)
+[39](https://huggingface.co/papers/2510.03222) [](https://huggingface.co/papers/2510.03222#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.26328.png)](https://huggingface.co/papers/2509.26328)
+Submitted by ![](https://huggingface.co/avatars/7faf8c6f71fc318a0113d780d376c381.svg) WuChengyue
+[ 51 ](https://huggingface.co/login?next=%2Fpapers%2F2509.26328)
+### [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://huggingface.co/papers/2509.26328)
+[![nvidia](https://cdn-uploads.huggingface.co/production/uploads/1613114437487-60262a8e0703121c822a80b6.png) NVIDIA](https://huggingface.co/nvidia)
+[639](https://huggingface.co/papers/2509.26328) [](https://huggingface.co/papers/2509.26328#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.23691.png)](https://huggingface.co/papers/2510.23691)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 50 ](https://huggingface.co/login?next=%2Fpapers%2F2510.23691)
+### [Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents](https://huggingface.co/papers/2510.23691)
+[![ByteDance](https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/0clr54wj5Ly-RkYU9OXPp.png) ByteDance](https://huggingface.co/ByteDance)
+[](https://huggingface.co/papers/2510.23691#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.09558.png)](https://huggingface.co/papers/2510.09558)
+Submitted by ![](https://huggingface.co/avatars/8f2271a193fcac609d9be270552b5afa.svg) LightChen2333
+[ 50 ](https://huggingface.co/login?next=%2Fpapers%2F2510.09558)
+### [AutoPR: Let's Automate Your Academic Promotion!](https://huggingface.co/papers/2510.09558)
+[
+  * ![](https://huggingface.co/avatars/b562c0ef1ff0e80dd5a293574726f0fc.svg)
+  * ![](https://huggingface.co/avatars/8f2271a193fcac609d9be270552b5afa.svg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.09558)
+[80](https://huggingface.co/papers/2510.09558) [](https://huggingface.co/papers/2510.09558#community)
+[](https://huggingface.co/papers/2510.15742)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63f0baf66309c84d5f4a2226/ihOgtwseRkfP1t-60IgyT.jpeg) QingyanBai
+[ 49 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15742)
+### [Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset](https://huggingface.co/papers/2510.15742)
+[
+  * ![](https://huggingface.co/avatars/04b926a7f2ad091ee00fef0c59903492.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/662128ec9ca2cd4e6db2fb44/uUg1V-pVfxT3mLuFgJuAN.jpeg)
+  * ![](https://huggingface.co/avatars/df528e9008972c8e5ae4d278e617476c.svg)
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/63f0baf66309c84d5f4a2226/ihOgtwseRkfP1t-60IgyT.jpeg)
+  * · 13 authors
+
+](https://huggingface.co/papers/2510.15742)
+[454](https://huggingface.co/papers/2510.15742) [](https://huggingface.co/papers/2510.15742#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.09608.png)](https://huggingface.co/papers/2510.09608)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 49 ](https://huggingface.co/login?next=%2Fpapers%2F2510.09608)
+### [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://huggingface.co/papers/2510.09608)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/62919485a29097b211bc7b83/TX8iBGu5JSuFlrRvjPEBV.png)
+  * · 7 authors
+
+](https://huggingface.co/papers/2510.09608)
+[679](https://huggingface.co/papers/2510.09608) [](https://huggingface.co/papers/2510.09608#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.15301.png)](https://huggingface.co/papers/2510.15301)
+Submitted by ![](https://huggingface.co/avatars/3e0b1017b1e1bf284758ce840c174290.svg) MingleiShi
+[ 48 ](https://huggingface.co/login?next=%2Fpapers%2F2510.15301)
+### [Latent Diffusion Model without Variational Autoencoder](https://huggingface.co/papers/2510.15301)
+[![KwaiVGI](https://cdn-uploads.huggingface.co/production/uploads/60e272ca6c78a8c122b12127/ZQV1aKLUDPf2rUcxxAqj6.jpeg) Kuaishou Visual Generation and Interaction Center](https://huggingface.co/KwaiVGI)
+[321](https://huggingface.co/papers/2510.15301) [](https://huggingface.co/papers/2510.15301#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.12323.png)](https://huggingface.co/papers/2510.12323)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/631728389e6b629ba04d3012/2yihb49Sw-ue_BKTlhZWE.jpeg) Rbin
+[ 48 ](https://huggingface.co/login?next=%2Fpapers%2F2510.12323)
+### [RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)
+[![hkuds](https://cdn-uploads.huggingface.co/production/uploads/631728389e6b629ba04d3012/_wpzD-zUk5LR0RMxifyNX.jpeg) Data Intelligence Lab@HKU](https://huggingface.co/hkuds)
+[10.1k](https://huggingface.co/papers/2510.12323) [](https://huggingface.co/papers/2510.12323#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.09201.png)](https://huggingface.co/papers/2510.09201)
+Submitted by ![](https://huggingface.co/avatars/93ca0a1d9c5578d052c5af0d4d1a0252.svg) YuminChoi
+[ 48 ](https://huggingface.co/login?next=%2Fpapers%2F2510.09201)
+### [Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs](https://huggingface.co/papers/2510.09201)
+[![kaist-ai](https://cdn-uploads.huggingface.co/production/uploads/6469949654873f0043b09c22/aaZFiyXe1qR-Dmy_xq67m.png) KAIST AI](https://huggingface.co/kaist-ai)
+[15](https://huggingface.co/papers/2510.09201) [](https://huggingface.co/papers/2510.09201#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.07499.png)](https://huggingface.co/papers/2510.07499)
+Submitted by ![](https://huggingface.co/avatars/d7ffe7fbbe39c0a013375357457c57b3.svg) starsuzi
+[ 48 ](https://huggingface.co/login?next=%2Fpapers%2F2510.07499)
+### [When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs](https://huggingface.co/papers/2510.07499)
+[![amazon](https://cdn-uploads.huggingface.co/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png) Amazon](https://huggingface.co/amazon)
+[](https://huggingface.co/papers/2510.07499#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.23768.png)](https://huggingface.co/papers/2509.23768)
+Submitted by ![](https://huggingface.co/avatars/11cc80d3c03747fd869e4dc1dbdd031a.svg) Blue-Giant
+[ 48 ](https://huggingface.co/login?next=%2Fpapers%2F2509.23768)
+### [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://huggingface.co/papers/2509.23768)
+[
+  * ![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/xbACBNLSopWmN5G1K8h_Y.png)
+  * · 5 authors
+
+](https://huggingface.co/papers/2509.23768)
+[](https://huggingface.co/papers/2509.23768#community)
+[![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.16333.png)](https://huggingface.co/papers/2510.16333)
+Submitted by ![](https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg) taesiri
+[ 47 ](https://huggingface.co/login?next=%2Fpapers%2F2510.16333)
+### [RL makes MLLMs see better than SFT](https://huggingface.co/papers/2510.16333)
+[![naver-ai](https://cdn-uploads.huggingface.co/production/uploads/64ff1755b75685dd7a46e146/Zj2bxgq31oSqwVrw16IE_.png) NAVER AI Lab](https://huggingface.co/naver-ai)
+[](https://huggingface.co/papers/2510.16333#community)
+[](https://huggingface.co/papers/month/2025-09) [Next](https://huggingface.co/papers/month/2025-11)
+Company
+[TOS](https://huggingface.co/terms-of-service) [Privacy](https://huggingface.co/privacy) [About](https://huggingface.co/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](https://huggingface.co/)
+Website
+[Models](https://huggingface.co/models) [Datasets](https://huggingface.co/datasets) [Spaces](https://huggingface.co/spaces) [Pricing](https://huggingface.co/pricing) [Docs](https://huggingface.co/docs)
