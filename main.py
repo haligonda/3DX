@@ -1,8 +1,6 @@
 import asyncio
 from crawl import Month
 
-# Run the async main function
-# asyncio.run(month(year=2025, month=11))
 async def main():
     month = Month(year=2025, month=10)
     await month.crawl()
