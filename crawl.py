@@ -14,6 +14,7 @@ class Month:
         self.base_dir = base_dir
 
     def get_file_path(self) -> str:
+        """Join and Check file and return filepath"""
         directory = os.path.join(self.base_dir, self.year)
         file_name = f"{self.month}.markdown"
         os.makedirs(directory, exist_ok=True)
@@ -32,6 +33,8 @@ class Month:
             if not markdown:
                 print("Crawler result has no 'markdown' attribute or it is empty.")
                 return 
+            
+            # Save raw markdown
             try: 
                 async with aiofiles.open(file=file_path, mode='w', encoding='utf-8') as f:
                     await f.write(result.markdown)
